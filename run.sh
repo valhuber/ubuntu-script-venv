@@ -12,6 +12,6 @@ fenv(){
 # source venv/bin/activate; pip freeze
 # alias activate="source venv/bin/activate"; activate; pip freeze
 
-activate; pip freeze
+activate; python3 -m pip freeze
 
-. venv/bin/activate; pip freeze
+. venv/bin/activate; python3 -m pip freeze

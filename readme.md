@@ -6,3 +6,4 @@ Here is a running example that worked for me - Ubuntu 22.04.  It works as follow
 * run `use-in-script.sh` to verify output as (only) _python-dotenv_.
    * Note it demonstrates 2 alternatives
 
+[<img src="images/venv-in-script.png">](https://github.com/valhuber/ubuntu-script-venv)
